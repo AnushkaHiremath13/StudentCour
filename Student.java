@@ -1,4 +1,3 @@
-package StudentCou;
 
 import java.util.*;
 
